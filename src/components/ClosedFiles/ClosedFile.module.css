@@ -6,6 +6,7 @@
     margin: .25vw;
     height: 92.5vh;
     width: 35vw;
+    left : 35vw;
     background-color: rgb(224, 200, 169);
     background-position: center;
     position: relative;
